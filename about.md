@@ -4,15 +4,30 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## About Me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm EnderMandS, a passionate developer and technology enthusiast. I enjoy working on various projects and sharing my knowledge with the community.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## My Interests
 
+- **Programming**: Always exploring new languages and frameworks
+- **Open Source**: Contributing to projects and building tools for the community
+- **Learning**: Constantly expanding my knowledge in technology and software development
+- **Sharing**: Writing about my experiences and learnings
 
-[jekyll-organization]: https://github.com/jekyll
+## Skills & Technologies
+
+- Web Development
+- Software Engineering
+- Version Control (Git/GitHub)
+- Jekyll & Static Site Generators
+
+## This Website
+
+This site is built with Jekyll and hosted on GitHub Pages. It serves as both my personal portfolio and a blog where I share my thoughts and experiences.
+
+Feel free to explore my [blog](/blog/) or check out my projects on [GitHub](https://github.com/EnderMandS).
+
+## Contact
+
+You can reach me through GitHub or explore my projects and contributions there.
