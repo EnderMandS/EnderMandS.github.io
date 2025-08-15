@@ -6,6 +6,8 @@ permalink: /blog/
 
 Welcome to my blog! Here you'll find my thoughts on technology, programming, and other topics that interest me.
 
+I will also post my notes on the paper here.
+
 ## Latest Posts
 
 {% if site.posts.size > 0 %}

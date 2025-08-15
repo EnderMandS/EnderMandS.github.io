@@ -5,7 +5,7 @@
 layout: page
 ---
 
-# Welcome to EnderMandS's Personal Website
+# Welcome
 
 Hi there! I'm EnderMandS, and this is my personal corner of the internet.
 
@@ -15,10 +15,10 @@ I'm passionate about technology, programming, and sharing knowledge. This websit
 
 ## What I Do
 
-- Software Development
-- Open Source Contributions
-- Technical Writing
-- Continuous Learning
+- Robotic
+- Navigation
+- 3D reconstruction
+- Visual, Lidar SLAM
 
 ## Get In Touch
 
@@ -29,5 +29,3 @@ Feel free to explore my projects and thoughts. You can find me on:
 Check out my [Blog](/blog/) for my latest posts and thoughts on technology and development.
 
 ---
-
-*Welcome to my digital space! Feel free to explore and don't hesitate to reach out.*
