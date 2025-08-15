@@ -36,7 +36,7 @@ Welcome to my blog! Here you'll find my thoughts on technology, programming, and
   {% for category in categories %}
     {% assign posts = category[1] %}
 <details>
-  <summary><strong>{{ category[0] | capitalize }}</strong> ({{ posts.size }})</summary>
+  <summary><strong>{{ category[0] }}</strong> ({{ posts.size }})</summary>
   <ul style="margin-top: 10px;">
     {% for post in posts %}
     <li>
