@@ -2,7 +2,7 @@
 layout: post
 title: "M-detector"
 date: 2025-08-18 10:08:00 +0800
-categories: [Paper, SLAM, Lidar]
+categories: [Paper, Lidar]
 ---
 
 # M-detector
