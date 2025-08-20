@@ -2,13 +2,19 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {%- seo -%}
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  {%- feed_meta -%}
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analytics.html -%}
-  {%- endif -%}
-  
+  {% seo %}
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  <link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}">
+  {% if site.feed != false %}
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title | escape }}" href="{{ '/feed.xml' | relative_url }}">
+  {% endif %}
+  {% if site.heading_numbering %}
+    <script defer src="{{ '/assets/js/heading-numbering.js' | relative_url }}"></script>
+    <style>
+      .section-number { color: var(--text-color, #555); font-weight: 600; margin-right: 4px; }
+    </style>
+  {% endif %}
+
   <!-- MathJax Configuration -->
   <script type="text/x-mathjax-config">
     MathJax.Hub.Config({

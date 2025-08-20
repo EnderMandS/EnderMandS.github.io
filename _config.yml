@@ -72,3 +72,5 @@ include:
   - "_posts/**/*.jpeg"
   - "_posts/**/*.gif"
   - "_posts/**/*.svg"
+
+heading_numbering: true
