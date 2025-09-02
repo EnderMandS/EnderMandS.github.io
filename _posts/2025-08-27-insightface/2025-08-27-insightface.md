@@ -95,6 +95,10 @@ ln -s /usr/lib/python3.8/dist-packages/onnx_graphsurgeon onnx_graphsurgeon
 ln -s /usr/lib/python3.8/dist-packages/onnx_graphsurgeon-0.3.12.dist-info  onnx_graphsurgeon-0.3.12.dist-info
 ln -s /usr/lib/python3.8/dist-packages/uff uff
 ln -s /usr/lib/python3.8/dist-packages/uff-0.6.9.dist-info uff-0.6.9.dist-info
+mamba activate trt
+pip install opencv-python
+pip install scikit-image
+sed -i 's/bool: np.bool/bool: bool/g' ~/miniconda3/envs/trt/lib/python3.8/site-packages/tensorrt/__init__.py
 ```
 
 测试
