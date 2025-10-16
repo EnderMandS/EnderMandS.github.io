@@ -35,6 +35,8 @@ categories: [Algorithm]
 
 ## 动态规划
 
+[Click Here to jump.](https://endermands.github.io/posts/Algorithm-Dynamic-Programming/)
+
 - 线性DP（背包、最短路径、最长公共子序列/子串）
 
 - 状态压缩、区间DP、树形DP
