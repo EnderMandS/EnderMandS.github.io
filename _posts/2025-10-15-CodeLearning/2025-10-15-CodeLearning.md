@@ -17,6 +17,8 @@ categories: [Algorithm]
 
 ## 树与图
 
+[Click Here to jump.](https://endermands.github.io/posts/Algorithm-Tree-Graph/)
+
 - 二叉树遍历（递归、迭代）、二叉搜索树性质
 
 - 树的深度、最小公共祖先、序列化/反序列化
@@ -24,6 +26,8 @@ categories: [Algorithm]
 - 图的邻接表/邻接矩阵表示，DFS/BFS、拓扑排序、最短路（Dijkstra/Bellman–Ford）
 
 ## 分治与回溯
+
+[Click Here to jump.](https://endermands.github.io/posts/Algorithm-Divide-Conquer/)
 
 - 快速幂、归并排序、分治求解子问题
 
